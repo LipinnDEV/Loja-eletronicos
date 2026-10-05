@@ -39,13 +39,13 @@ As principais relações do banco são:
 
 ```text
 Categoria
-    │
+    |
     └── Produto ─── Fornecedor
-           │
+           |
            └── Item_Pedido ─── Pedido ─── Cliente
-                                  │
+                                  |
                                   ├── Pagamento
-                                  │
+                                  |
                                   └── Entrega
 
 Cliente ─── Avaliacao ─── Produto
