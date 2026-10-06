@@ -8,7 +8,7 @@ O sistema foi desenvolvido utilizando MySQL e permite controlar produtos, catego
 
 O projeto tem como objetivo organizar as informações de uma loja de eletrônicos e realizar consultas para analisar produtos, vendas, clientes, fornecedores, pagamentos, entregas e avaliações.
 
-## Tecnologias utilizadas
+# tecnologias utilizadas
 
 - MySQL
 - MySQL Workbench
