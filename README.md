@@ -10,8 +10,8 @@ O projeto tem como objetivo organizar as informações de uma loja de eletrônic
 
 # tecnologias utilizadas
 
-- MySQL
-- MySQL Workbench
+- MySQL 
+- MySQL workbench
 - SQL
 - GitHub
 
@@ -24,7 +24,7 @@ Nome do banco:
 O banco possui 9 tabelas:
 
 - Categoria
-- Fornecedor
+- Fornecedor 
 - Produto
 - Cliente
 - Pedido
