@@ -240,7 +240,6 @@ Entre os conhecimentos trabalhados, destacam-se:
 - Representação de operações comerciais utilizando estruturas relacionais.
 
 ## 12. Autor
-
 **Felipe Mousinho**
 
 Estudante do Ensino Médio Integrado em Desenvolvimento de Sistemas no SESI Blumenau, com interesse em programação, bancos de dados e desenvolvimento de software.
